@@ -3,19 +3,19 @@
 #### LED matrix(5 columns, 7rows, 14-pins)
 http://www.kingbrightusa.com/images/catalog/SPEC/TA20-11EWA.pdf
 
-###### 74HC245
+#### 74HC245
 http://www.mouser.com/ds/2/149/MM74HC245A-71310.pdf
 http://www.ti.com/lit/ds/symlink/sn74hc245.pdf
 
-###### 74HC373
+#### 74HC373
 http://www.st.com/content/ccc/resource/technical/document/datasheet/group1/96/71/e4/bd/17/76/4e/c7/CD00000305/files/CD00000305.pdf/jcr:content/translations/en.CD00000305.pdf
 http://www.ti.com/lit/ds/symlink/cd74hc373.pdf
 
-###### ULN2003A
+#### ULN2003A
 https://www.onsemi.com/pub/Collateral/MC1413-D.PDF
 http://www.tij.co.jp/jp/lit/ds/slrs027o/slrs027o.pdf
 
-###### 74HC237B
+#### 74HC237B
 http://www.ti.com/lit/ds/symlink/cd74hc237.pdf
 
 # Things Learned
