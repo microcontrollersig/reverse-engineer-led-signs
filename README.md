@@ -31,7 +31,7 @@ http://www.ti.com/lit/ds/symlink/cd74hc237.pdf
 
 # Interesting Pictures
 
-![Ideal LED matrix design](https://www.insidegadgets.com/wp-content/uploads/2010/11/schled.png)
+![Ideal LED matrix design](https://github.com/microcontrollersig/reverse-engineer-led-signs/raw/master/idealledmatrix.png)
 
 
 ![Similar design](http://www.electro-tech-online.com/imgcache/4316-14_1194402379.gif)
