@@ -18,6 +18,9 @@ http://www.tij.co.jp/jp/lit/ds/slrs027o/slrs027o.pdf
 #### 74HC237B
 http://www.ti.com/lit/ds/symlink/cd74hc237.pdf
 
+# Files in Repository
+Main one is one ending in fzz. You need to install Fritzing to view it (schematic view)
+
 # Things Learned
 1. Rows in the first half of the board are connected, rows in the second half are connected,
    but rows in first half are not connected to the second.
