@@ -1,4 +1,4 @@
-# Images
+# Images (click on the image to rotate it properly!)
 
 #### Component side LEDM1-LEDM3
 ![LEDM1-LEDM3](https://raw.githubusercontent.com/microcontrollersig/reverse-engineer-led-signs/master/images/IMG_20170827_141247.jpg)
