@@ -1,8 +1,7 @@
 # Figuring out how a commerical Led signs work
 
 #### Images
-![LEDM1-LEDM3](https://raw.githubusercontent.com/microcontrollersig/reverse-engineer-led-signs/master/images/IMG_20170827_141711.jpg)
-
+https://github.com/microcontrollersig/reverse-engineer-led-signs/blob/master/images/readme.md
 
 
 #### LED matrix(5 columns, 7rows, 14-pins)
