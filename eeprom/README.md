@@ -19,6 +19,11 @@ Used the following using Ubuntu:
 * emu8051
 * mcu8051ide
 
+On Windows:
+
+* HxD best hex editor
+* Windows 10 calculator in Programmer mode great for conversion between dec/hex/binary 
+
 mcu8051ide is hardcore, emu8051 is lean and nifty.
 
 #### References
