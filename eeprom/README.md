@@ -33,5 +33,8 @@ mcu8051ide is hardcore, emu8051 is lean and nifty.
 * http://www.keil.com/support/man/docs/is51/is51_opcodes.htm
 * http://www.8052.com/tutsfr.php
 
+#### Progress
+![ascii 8051](https://raw.githubusercontent.com/microcontrollersig/reverse-engineer-led-signs/master/eeprom/asciiram.jpg)
+
 
 
