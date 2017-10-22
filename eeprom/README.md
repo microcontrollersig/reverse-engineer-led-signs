@@ -8,6 +8,9 @@ https://github.com/microcontrollersig/reverse-engineer-led-signs/raw/master/eepr
 This file is the disassembly using mcu8051ide
 https://github.com/microcontrollersig/reverse-engineer-led-signs/blob/master/eeprom/eepromseansign.asm
 
+This is also a disassembly, but with actual locations in EEPROM and opcodes
+https://github.com/microcontrollersig/reverse-engineer-led-signs/blob/master/eeprom/eepromseansignlst.asm
+
 This file is the intel hex equivalent needed for emu8051
 https://github.com/microcontrollersig/reverse-engineer-led-signs/raw/master/eeprom/eepromseansign.hex
 
